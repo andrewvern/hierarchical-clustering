@@ -5,3 +5,5 @@ I implemented a hierarchical clustering algorithm to be used on a dataset of can
  
 ![before_hc](https://user-images.githubusercontent.com/72095024/133946274-e0bd672a-fc97-4d15-a16c-f86f43382291.png)
 ![after_hc](https://user-images.githubusercontent.com/72095024/133946268-705dbf74-4cdf-4f3e-94d6-15f2857e8e6a.png)
+
+As we can see, the observations after the clustering appear to be more grouped by their similarities.
