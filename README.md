@@ -3,4 +3,4 @@ I implemented a hierarchical clustering algorithm to be used on a dataset of can
  
  Below are heatmaps of the data before the clustering was applied and after.
  
- ![Before HC](/clustering images/before_hc.png)
+ ![Before HC](clustering images/before_hc.png)
